@@ -1,4 +1,4 @@
-# ASIAN KUNG-FU GENERATION – 遥か彼方
+# ASIAN KUNG-FU GENERATION – 遥か彼方 - Haruka Kanata
 
 > **歌詞登録ステータス：同期歌詞あり**
 
