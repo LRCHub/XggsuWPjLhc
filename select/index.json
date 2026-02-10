@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "遥か彼方",
+  "base_track": "遥か彼方 (2024 ver.)",
   "base_artist": "ASIAN KUNG-FU GENERATION",
-  "createdAt": "2026-01-07T16:33:14.081390Z",
+  "createdAt": "2026-02-10T13:04:45.020099Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -15,18 +15,18 @@
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Haruka Kanata [遥か彼方]",
+      "title": "遥か彼方",
       "artist": "ASIAN KUNG-FU GENERATION",
       "has_synced": true,
-      "path": "select/02_Haruka_Kanata_[遥か彼方]_ASIAN_KUNG-FU_GENERATION.lrc"
+      "path": "select/02_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Haruka Kanata; 遥か彼方",
-      "artist": "ASIAN KUNG-FU GENERATION",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG‐FU GENERATION",
       "has_synced": true,
-      "path": "select/03_Haruka_Kanata;_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+      "path": "select/03_遥か彼方_ASIAN_KUNG‐FU_GENERATION.lrc"
     },
     {
       "id": "lrclib_4",
@@ -39,106 +39,106 @@
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "遥か彼方(第26話〜第53話)",
-      "artist": "Muray",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
       "has_synced": true,
-      "path": "select/05_遥か彼方(第26話〜第53話)_Muray.lrc"
+      "path": "select/05_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "遥か彼方 (第26-53話 OP)",
-      "artist": "Muray",
+      "title": "遥か彼方 (2024 ver.)",
+      "artist": "ASIAN KUNG-FU GENERATION",
       "has_synced": true,
-      "path": "select/06_遥か彼方_(第26-53話_OP)_Muray.lrc"
+      "path": "select/06_遥か彼方_(2024_ver.)_ASIAN_KUNG-FU_GENERATION.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "遥か彼方",
-      "artist": "ASIAN KUNG‐FU GENERATION",
+      "title": "遥か彼方 (2024 ver.)",
+      "artist": "ASIAN KUNG-FU GENERATION",
       "has_synced": true,
-      "path": "select/07_遥か彼方_ASIAN_KUNG‐FU_GENERATION.lrc"
+      "path": "select/07_遥か彼方_(2024_ver.)_ASIAN_KUNG-FU_GENERATION.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
       "title": "遥か彼方",
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "has_synced": true,
-      "path": "select/08_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+      "artist": "Rita",
+      "has_synced": false,
+      "path": "select/08_遥か彼方_Rita.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
       "title": "遥か彼方",
-      "artist": "ASIAN KUNG-FU GENERATION",
+      "artist": "Rita",
       "has_synced": true,
-      "path": "select/09_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+      "path": "select/09_遥か彼方_Rita.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "遥か彼方 - Haruka Kanata",
-      "artist": "ASIAN KUNG-FU GENERATION",
+      "title": "遥か彼方",
+      "artist": "Rita",
       "has_synced": true,
-      "path": "select/10_遥か彼方_-_Haruka_Kanata_ASIAN_KUNG-FU_GENERATION.lrc"
+      "path": "select/10_遥か彼方_Rita.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "遥か彼方 (2024 ver.)",
-      "artist": "ASIAN KUNG-FU GENERATION",
+      "title": "遥か彼方",
+      "artist": "Asian Kung-Fu Generation",
       "has_synced": true,
-      "path": "select/11_遥か彼方_(2024_ver.)_ASIAN_KUNG-FU_GENERATION.lrc"
+      "path": "select/11_遥か彼方_Asian_Kung-Fu_Generation.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "遥か彼方 (2024 ver.)",
+      "title": "Haruka Kanata [遥か彼方]",
       "artist": "ASIAN KUNG-FU GENERATION",
       "has_synced": true,
-      "path": "select/12_遥か彼方_(2024_ver.)_ASIAN_KUNG-FU_GENERATION.lrc"
+      "path": "select/12_Haruka_Kanata_[遥か彼方]_ASIAN_KUNG-FU_GENERATION.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "遥か彼方",
-      "artist": "Rita",
-      "has_synced": false,
-      "path": "select/13_遥か彼方_Rita.txt"
+      "title": "Haruka Kanata; 遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/13_Haruka_Kanata;_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "遥か彼方",
-      "artist": "Rita",
+      "title": "遥か彼方(第26話〜第53話)",
+      "artist": "Muray",
       "has_synced": true,
-      "path": "select/14_遥か彼方_Rita.lrc"
+      "path": "select/14_遥か彼方(第26話〜第53話)_Muray.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "遥か彼方 Remixed Svenson",
-      "artist": "Rita",
-      "has_synced": false,
-      "path": "select/15_遥か彼方_Remixed_Svenson_Rita.txt"
+      "title": "遥か彼方 (第26-53話 OP)",
+      "artist": "Muray",
+      "has_synced": true,
+      "path": "select/15_遥か彼方_(第26-53話_OP)_Muray.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "遥か彼方",
-      "artist": "Rita",
+      "title": "遥か彼方 - Haruka Kanata",
+      "artist": "ASIAN KUNG-FU GENERATION",
       "has_synced": true,
-      "path": "select/16_遥か彼方_Rita.lrc"
+      "path": "select/16_遥か彼方_-_Haruka_Kanata_ASIAN_KUNG-FU_GENERATION.lrc"
     },
     {
       "id": "lrclib_17",
       "source": "lrclib",
-      "title": "遥か彼方",
-      "artist": "Asian Kung-Fu Generation",
-      "has_synced": true,
-      "path": "select/17_遥か彼方_Asian_Kung-Fu_Generation.lrc"
+      "title": "遥か彼方 Remixed Svenson",
+      "artist": "Rita",
+      "has_synced": false,
+      "path": "select/17_遥か彼方_Remixed_Svenson_Rita.txt"
     },
     {
       "id": "petitlyrics_1",
